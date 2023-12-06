@@ -1,0 +1,7 @@
+{
+  "collection": "https://glenrobson.github.io/iiif_stuff/jth/collection.json",
+  "featured": [
+    "https://damsssl.llgc.org.uk/iiif/2.0/1123266/manifest.json"
+  ],
+  "label": { "none": ["Glen Test Collection"] }
+}
