@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(e){e.exports=JSON.parse('{"collection":"https://glenrobson.github.io/iiif_stuff/jth/collection.json","featured":["https://damsssl.llgc.org.uk/iiif/2.0/1123266/manifest.json"],"label":{"none":["Glen Test Collection"]}}')}}]);
