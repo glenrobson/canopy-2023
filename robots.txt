@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://glenrobson.github.io/canopy-2023
+
+# Sitemaps
+Sitemap: https://glenrobson.github.io/canopy-2023/sitemap.xml
